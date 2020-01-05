@@ -15,8 +15,6 @@
         <appender-ref ref="CONSOLE"/>
     </logger>
 
-
-
     <root level="debug">
         <appender-ref ref="CONSOLE"/>
     </root>
